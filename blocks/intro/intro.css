@@ -1,0 +1,21 @@
+.intro {
+  width: calc(100vw - 2*var(--margin-mob));
+}
+
+@media (min-width: 768px) {
+  .intro {
+    width: calc(100vw - 2*var(--margin-tab));
+  }
+}
+
+@media (min-width: 1024px) {
+  .intro {
+    width: calc(100vw - 2*var(--margin-dec));
+  }
+}
+
+@media (min-width: 1280px) {
+  .intro {
+    max-width: 984px;
+  }
+}

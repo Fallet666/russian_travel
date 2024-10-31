@@ -1,0 +1,13 @@
+:root {
+  /* Цвета */
+  --color-text: #fff;
+  --color-bg: #2a2c2f;
+  --color-text-additional: #aaa;
+  --color-cover: rgba(42, 44, 47, 0.3);
+  --color-cover-hover: rgba(42, 44, 47, 0.8);
+
+  /* Боковые марджины */
+  --margin-mob: 16px;
+  --margin-tab: 24px;
+  --margin-dec: 48px;
+}
